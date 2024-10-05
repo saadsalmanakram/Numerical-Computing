@@ -1,0 +1,1 @@
+Library that combines NumPy with automatic differentiation, optimized for high-performance machine learning research.

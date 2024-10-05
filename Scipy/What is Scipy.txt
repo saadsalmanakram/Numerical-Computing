@@ -1,0 +1,1 @@
+Built on NumPy, SciPy provides additional functionality for scientific and technical computing, including modules for optimization, integration, and interpolation.
