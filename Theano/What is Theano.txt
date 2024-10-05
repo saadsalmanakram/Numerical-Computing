@@ -1,0 +1,1 @@
+Numerical computing library used for defining, optimizing, and evaluating mathematical expressions, particularly with multi-dimensional arrays.
