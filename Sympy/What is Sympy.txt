@@ -1,0 +1,1 @@
+A library for symbolic mathematics, supporting algebra, calculus, and equation solving.
